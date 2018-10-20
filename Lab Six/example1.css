@@ -1,0 +1,36 @@
+body {
+	color:white;
+	background-color:black;
+}
+
+	
+#wrapper{
+	margin:0 auto;
+	width:1500px;
+	background-color:red;
+}
+
+#header {
+	height:85px;
+	text-align:center;
+}
+
+#leftbody{
+	font-size:15px;
+	float:left;
+	width:1500px;
+	background-color:green;
+	height:700px;
+}
+
+#footer{
+	font-size:15px;
+	height:75px;
+	width:1500px;
+	float:left;
+	background-color:blue;
+	
+}
+
+
+	
